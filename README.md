@@ -28,17 +28,17 @@ Created three distinct design alternatives addressing different aspects of the u
 <table>
 <tr>
 <td width="33%">
-<img src="1 - Prototype.png" width="100%">
+<img src="images/1%20-%20Prototype.png" width="100%">
 <b>Prototype 1</b><br/>
 Focus on visual feedback and error messaging
 </td>
 <td width="33%">
-<img src="2 - Prototype.png" width="100%">
+<img src="images/2%20-%20Prototype.png" width="100%">
 <b>Prototype 2</b><br/>
 Split-view design with dedicated filter workspace
 </td>
 <td width="33%">
-<img src="3 - Prototype.png" width="100%">
+<img src="images/3%20-%20Prototype.png" width="100%">
 <b>Prototype 3</b><br/>
 Sidebar approach with filter library
 </td>
@@ -53,7 +53,7 @@ Sidebar approach with filter library
 ### 4. Final Prototype
 Combined the best elements of top-performing prototypes:
 
-![Final Prototype](Improved Interface Overview.png)
+![Final Prototype](images/Improved%20Interface%20Overview.png)
 
 **Key Features:**
 - **Enhanced visibility** - Clear visual feedback for filter status with color coding
@@ -66,13 +66,13 @@ Combined the best elements of top-performing prototypes:
 
 The final prototype was evaluated through interviews and surveys with 13 participants:
 
-| Metric | Final Prototype | Original | Statistical Significance |
-|--------|----------------|----------|-------------------------|
-| Overall Rating (1-5) | **4.17 ± 0.34** | 3.00 ± 0.38 | **p < 0.001** |
-| Ease of Learning | **4.25 ± 0.50** | 2.50 ± 0.42 | Significant improvement |
-| Ease of Use | **4.17 ± 0.49** | 2.55 ± 0.39 | Significant improvement |
+| Metric | Final Prototype | Original | p-value |
+|--------|----------------|----------|---------|
+| Overall Rating (1-5) | **4.17 ± 0.34** | 3.00 ± 0.38 | **< 0.001** |
+| Ease of Learning (1-5) | **4.11 ± 0.29** | 2.50 ± 0.42 | **< 0.001** |
+| Productivity (1-5) | **4.22 ± 0.39** | 2.55 ± 0.39 | **< 0.001** |
 
-The design showed statistically significant improvement over the baseline interface with a t-statistic of 6.62 (p < 0.001).
+The design showed statistically significant improvement over the baseline interface (t = 6.62, p < 0.001).
 
 ## Design Principles Applied
 
@@ -92,7 +92,3 @@ The design showed statistically significant improvement over the baseline interf
 ## Project Details
 
 For complete methodology, analysis, and appendices, see [HCI Individual Project.md](HCI%20Individual%20Project.md).
-
-**Course**: CS6750 Human-Computer Interaction
-**Institution**: Georgia Institute of Technology
-**Author**: Chase Hasbrouck

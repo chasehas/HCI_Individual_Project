@@ -23,7 +23,7 @@ As someone who teaches network security, I repeatedly observed students struggli
 - **Heuristic evaluation** using Nielsen's usability heuristics
 
 ### 2. Initial Prototyping
-Created three distinct design alternatives addressing different aspects of the usability issues:
+Created three distinct wireframe design alternatives addressing different aspects of the usability issues:
 
 <table>
 <tr>
@@ -40,7 +40,7 @@ Split-view design with dedicated filter workspace
 <td width="33%">
 <img src="images/3%20-%20Prototype.png" width="100%">
 <b>Prototype 3</b><br/>
-Sidebar approach with filter library
+Sidebar approach with filter library option
 </td>
 </tr>
 </table>
@@ -51,7 +51,7 @@ Sidebar approach with filter library
 - Identified Prototypes 1 and 2 as most promising
 
 ### 4. Final Prototype
-Combined the best elements of top-performing prototypes:
+Combined the best elements of top-performing prototypes into final wireframe:
 
 ![Final Prototype](images/Improved%20Interface%20Overview.png)
 
